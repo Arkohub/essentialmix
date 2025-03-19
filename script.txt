@@ -1,0 +1,5 @@
+To get started to view your page locally without putting it into webroot directory.
+
+cd /home/itamar/dev/essentialmix
+php -S localhost:8000
+http://localhost:8000/mixindex.php
